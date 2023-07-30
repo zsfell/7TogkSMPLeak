@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.monarchbutterfly": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"Wings": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, -42.5, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"Wings2": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 52.5, 0],
+						"1.0": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [3, 0, -2],
+						"1.0": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

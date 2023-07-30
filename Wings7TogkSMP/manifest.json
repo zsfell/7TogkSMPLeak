@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Wings7TogkSMP",
+    "name": "Wings7TogkSMP",
+    "uuid": "ddfa79ba-643d-4a71-a369-bff34a706f4e",
+    "version": [0, 1, 5],
+    "min_engine_version": [
+      1,
+      16,
+      200
+    ]
+  },
+  "modules": [
+    {
+      "description": "Wings7TogkSMP",
+      "type": "resources",
+      "uuid": "1f1258ae-24b4-4b67-a0a5-5c8f5b45ee54",
+      "version": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}
