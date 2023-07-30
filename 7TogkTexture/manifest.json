@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Textures 7TogkSMP",
+   "name": "Texture7Togk",
+   "uuid":"ecae620d-bf5e-4b02-9d17-e53b71ed2486",
+   "version": [1, 1, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Textures 7TogkSMP",
+     "type": "resources",
+     "uuid": "c64b4300-c7f8-4f7e-a7ce-17c08bb6e659",
+     "version": [1, 0, 0]
+   }
+ ]
+}

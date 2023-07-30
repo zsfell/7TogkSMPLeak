@@ -1,0 +1,7 @@
+{
+  "namespace": "scoreboard",
+  
+  "scoreboard_sidebar_player": {
+    "max_size":  ["default", "default"]
+  }
+}
