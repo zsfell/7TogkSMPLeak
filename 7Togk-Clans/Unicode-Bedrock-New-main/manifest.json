@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "7Togk-Clans",
+        "name": "7Togk-Clans",
+        "uuid": "b582e7a4-dd05-11ed-afa1-0242ac120002",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":  "7Togk-Clans",
+            "type": "resources",
+            "uuid": "bded6662-dd05-11ed-afa1-0242ac120002",
+            "version": [1, 0, 0]
+        }
+    ]
+}
