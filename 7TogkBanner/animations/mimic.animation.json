@@ -1,0 +1,18 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mimic": {
+			"loop": true,
+			"animation_length": 0.96,
+			"bones": {
+				"lowerjaw": {
+					"rotation": {
+						"0.0": [-20, 0, 0],
+						"0.4833": [-15, 0, 0],
+						"0.9667": [-20, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
